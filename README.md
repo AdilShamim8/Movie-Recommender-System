@@ -1,5 +1,7 @@
 # Movie Recommender System
 
+![Movie Recommender System](https://github.com/AdilShamim8/Movie-Recommender-System/blob/main/Images/Movie%20Recommender%20System.png?raw=true)  
+
 A Movie Recommender System that leverages data analysis and machine learning techniques to provide personalized movie recommendations. This project includes data preprocessing, model building, and a web interface for interacting with the recommendations.
 
 ## Overview
