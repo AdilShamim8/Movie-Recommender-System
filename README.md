@@ -33,7 +33,7 @@ Movie-Recommender-System/
 
 ### Prerequisites
 
-- **Python 3.x:** Make sure you have Python installed.
+- **Python 3.10:** Make sure you have Python installed.
 - **pip:** Python package manager.
 - **Jupyter Notebook:** For running and exploring the notebooks.
 
